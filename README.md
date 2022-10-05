@@ -1,6 +1,7 @@
 # Auto-Update-of-Shared-GCal
 複数のGoogleカレンダー上の予定を集約して，一つの共有用カレンダーを作成します．  
 保存していたカレンダー単位で新たに共有用の名前をつけて公開することができます．  
+公開したくない予定，特定の名前で公開する予定など，様々なカスタマイズが可能です．    
 <img src="docs/imgs/original.jpg" width="300px"> -> <img src="docs/imgs/shared.jpg" width="300px">  
 (自分が記入したカレンダー) -> (アプリが出力するカレンダー)
 
